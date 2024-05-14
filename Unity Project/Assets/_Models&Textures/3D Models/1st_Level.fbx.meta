@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 029d4be83e5db5a4e8380de43463228f
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH Bot
+    second: {fileID: 2100000, guid: cea1571ececbdb642a09fbfe6fb37e22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH Sides
+    second: {fileID: 2100000, guid: c525d64026198b645a90a114879ef748, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH Sphere
+    second: {fileID: 2100000, guid: 72339e4d9e6b500409af7bc54d50b903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH Sphere Holder
+    second: {fileID: 2100000, guid: 523ec44ec88db104d8dbf8165fade23c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH Top
+    second: {fileID: 2100000, guid: 6d3b1bd29e51c9d46833ffbb5d6b51c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back of Rail
+    second: {fileID: 2100000, guid: 58f62cbf128db8e459ac6ad644d4a19c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balcony Connector
+    second: {fileID: 2100000, guid: ff5dac82d76e3844cb677bce22aafad5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balcony Inside
+    second: {fileID: 2100000, guid: 41b338fc071e68742a11d14774e8efe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balcony Outside_
+    second: {fileID: 2100000, guid: 246a2ff729c9de3458ea554f7594a3ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balcony Wall
+    second: {fileID: 2100000, guid: 7f0c96a06d352d54aa6c07b9d8673247, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base Face
+    second: {fileID: 2100000, guid: db5304c1866a8294fb2698930db1bcaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base Face Sides
+    second: {fileID: 2100000, guid: 162df7fd47bcc2347805f37d8f47e948, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bot Metal Facing
+    second: {fileID: 2100000, guid: 2e592bf2a5d52b044b8c355f5c969bf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom
+    second: {fileID: 2100000, guid: de5518b45ff9be04da89ee8dd0d2ce78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronze
+    second: {fileID: 2100000, guid: 737d9b9a44bbf8d4c922c294fedfe373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronze Top of Wall
+    second: {fileID: 2100000, guid: 9917b207647eb1944bb2b31fb93a1c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Column Base
+    second: {fileID: 2100000, guid: 211f5328e51709741a3a8670c50aae41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Counter
+    second: {fileID: 2100000, guid: 9d8435f2e8fa07d4494c31a0e6a7b23c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horizontal
+    second: {fileID: 2100000, guid: f7c45b0c53ae7714286d888c520a200b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Inner Railing
+    second: {fileID: 2100000, guid: eb1ec9934d0421042b2a20b879ee2844, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Inside
+    second: {fileID: 2100000, guid: 5ecdee1abab521946b5737402c1b002e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L1 Interior Roof Walls
+    second: {fileID: 2100000, guid: 3d85ed5de85610a4c8e707930eb346ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L1 Walls
+    second: {fileID: 2100000, guid: c26d676da2f64d84da55bfe7655db6e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L1 Wooden Floor
+    second: {fileID: 2100000, guid: bbf2ee28e17c2fb4495f774de6a3cba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L2 Back Wall
+    second: {fileID: 2100000, guid: 4ea8426e495d3e9469f064672ba394f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L2 Flat Roof
+    second: {fileID: 2100000, guid: ba7a9dde2b2e21e43996cdba94a52dc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L2 Floors
+    second: {fileID: 2100000, guid: fac9d5130dc12a04a9ff64fa0bda5dd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L2 Roof
+    second: {fileID: 2100000, guid: 0fad545b7098f294797198c8c42ba7e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ledges
+    second: {fileID: 2100000, guid: 72bd6134570888c46a659a8da05f1ab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Low Column Base
+    second: {fileID: 2100000, guid: 44da85755dda2d3459cd8e7d57311a6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MId Railing Sides
+    second: {fileID: 2100000, guid: f39839b7ff030e74ab3589dcdf80e4a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main Column
+    second: {fileID: 2100000, guid: d92c9754cfa760140befa307e3eda935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 77a44ceabb1752745be12db95e9f5a23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Facing
+    second: {fileID: 2100000, guid: 991167efba18a6c46a315a7513bda73b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mid Column Base
+    second: {fileID: 2100000, guid: bcc0cdd4775601a43bf1b2969f986452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mid Railing Top
+    second: {fileID: 2100000, guid: 1a10dfd723fa3d9409ed53aa49841d59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OB Room Entrance
+    second: {fileID: 2100000, guid: 79b06305378c4bc429af249f059aeae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OB Room Walls
+    second: {fileID: 2100000, guid: 16f9afcbdbfd64f4a99feb5a21b6781c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ob Room Bar Holder
+    second: {fileID: 2100000, guid: aecdffbe044ea534ab181f98a89423ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ob Room Bars
+    second: {fileID: 2100000, guid: 0368f71c6ae6c654f8d6fc103cc37de8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ob room Floor
+    second: {fileID: 2100000, guid: 840c0542255916e4ca270e5b734e4395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rail Beams Wide
+    second: {fileID: 2100000, guid: 9ff4d3ab4b52e5748b5af096b256b705, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Railing
+    second: {fileID: 2100000, guid: 72218ff44b2f6ce418cf418c48877fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sandstone
+    second: {fileID: 2100000, guid: 9ea54cc8e0ee22349adfbbed4046f6fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sandstone Wall
+    second: {fileID: 2100000, guid: fd40dcbbf3c65ad4b8ceef92aea5dfa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Short Beams
+    second: {fileID: 2100000, guid: 5b00aa3d637152f4d95fe7f63bf4bcb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side Walls
+    second: {fileID: 2100000, guid: 96503659ff22a0f45ba6896f731077ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top Metal Facing
+    second: {fileID: 2100000, guid: 13a5a910f2a809a4097f98721e41f11c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top of Column
+    second: {fileID: 2100000, guid: 1ec9d99b640d4c941bd98e1c7f9474ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Underneath Railing
+    second: {fileID: 2100000, guid: 0f46f34997059754783d191e98a474f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vertical Stairs
+    second: {fileID: 2100000, guid: 6b44d8c9e64715348b62edcbce13e899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 187a44fd2ff3cbb43a3061b9eb6a5e9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Beam (Roof)
+    second: {fileID: 2100000, guid: 2723fad3134d4f14792c39de9d781bc6, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
