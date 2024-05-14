@@ -142,24 +142,19 @@ public class PlayerAbility : MonoBehaviour
     {
         GameObject anim = Instantiate(airstrikeAnim);
         anim.transform.position = new Vector3(combatA.GetAttackArea().transform.position.x, combatA.GetAttackArea().transform.position.y + 15f, combatA.GetAttackArea().transform.position.z);
-        //Vector3 initialPosition = anim.transform.position;
-        //Vector3 targetPosition = new Vector3(combatA.GetAttackArea().transform.position.x, combatA.GetAttackArea().transform.position.y, combatA.GetAttackArea().transform.position.z);
         float elapsedTime = 0f;
         float duration = 1f;
 
         while (elapsedTime < duration)
         {
-            //anim.transform.position = Vector3.Lerp(initialPosition, targetPosition, elapsedTime / duration);
             elapsedTime += Time.deltaTime;
             yield return null;
         }
 
-       // anim.transform.position = targetPosition;
         attackTile.TargetDamage(3);
         combatA.SetAttackAreaPosition(new Vector3(combatM.CheckCurrentPos().x, combatM.CheckCurrentPos().y - 0.98f, combatM.CheckCurrentPos().z));
         combatAttack.SetAttackX(playerTiles.CheckMoveX());
         combatAttack.SetAttackY(playerTiles.CheckMoveY());
-        //Destroy(anim);
         combatM.EndTurn();
     }
     public void AirstrikeMove(string input)
