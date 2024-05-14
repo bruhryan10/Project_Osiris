@@ -173,7 +173,7 @@ public class CombatAttack : MonoBehaviour
             yield return null;
         }
 
-        currentMesh.transform.rotation = endRotation; // Ensure final rotation is exactly the target rotation
+        currentMesh.transform.rotation = endRotation;
     }
     void LookAtTile()
     {
